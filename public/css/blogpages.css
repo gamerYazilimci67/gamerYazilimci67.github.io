@@ -1,0 +1,22 @@
+.baslik2{
+    color: white;
+    font-family: "Lexend";
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.pbaslik{
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.p1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+    line-height: 45px;
+}
