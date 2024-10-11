@@ -19,3 +19,9 @@
     text-decoration: none;
    
 }
+.navbar h2{
+    margin-left: 25px;
+}
+.navbar a:last-child{
+    margin-right: 25px;
+}
